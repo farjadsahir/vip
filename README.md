@@ -1,4 +1,7 @@
-<b><h>PERINTAH/COMMAND
+<b><h>FOLLOW FACEBOOK GW COK
+<button>TES </button>
+
+PERINTAH/COMMAND
 
 • pkg update && upgrade
 
