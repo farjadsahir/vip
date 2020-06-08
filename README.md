@@ -1,4 +1,4 @@
-#PERINTAH/COMMAND
+<b><h>PERINTAH/COMMAND
 • pkg update && upgrade
 • pkg install nodejs
 • pkg install git
