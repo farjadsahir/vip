@@ -1,10 +1,17 @@
 <b><h>PERINTAH/COMMAND
+
 • pkg update && upgrade
+
 • pkg install nodejs
+
 • pkg install git
+
 • pkg install python2
+
 • git clone https://github.com/RIZKY4/vip
+
 • cd vip
+
 • python2 vip.py
 
 <p align="center">
